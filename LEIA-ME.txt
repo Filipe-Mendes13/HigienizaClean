@@ -1,0 +1,18 @@
+HIGIENIZA CLEAN — SITE COMPLETO
+
+1. Extraia todos os arquivos do ZIP na mesma pasta.
+2. Abra index.html no navegador para visualizar.
+3. Envie todos os arquivos extraídos para a raiz do seu repositório GitHub.
+Mantenha index.html, style.css, script.js e todas as mídias juntos, sem subpastas.
+Não envie apenas o ZIP.
+
+Site estático, sem instalação ou compilação. Os estilos ficam em style.css e
+as interações em script.js. A capa usa o sofá com almofadas azuis aprovado.
+Vídeo completo de impermeabilização com reprodução por clique.
+Comparador com controle por ponteiro e teclado; animações respeitam movimento reduzido.
+WhatsApp: +55 31 98695-9736.
+Região: Belo Horizonte e região metropolitana.
+
+Na importação à Vercel: preset Other, diretório raiz ./, sem comando de build.
+Este pacote não publica nem altera seu repositório automaticamente.
+Google Analytics não instalado: depende do ID G-... e da configuração posterior.
